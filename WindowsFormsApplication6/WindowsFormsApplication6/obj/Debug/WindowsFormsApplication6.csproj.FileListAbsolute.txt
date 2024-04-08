@@ -1,0 +1,8 @@
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.exe
+D:\carla\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.pdb
